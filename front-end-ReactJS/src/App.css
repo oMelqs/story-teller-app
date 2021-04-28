@@ -1,0 +1,38 @@
+header{
+  margin-left: 30%;
+
+}
+
+body {
+  color: #f5f5f5;
+  font: 14px sans-serif;
+  background: #333;
+}
+
+div#mainContent{
+  text-align: center;
+  position: relative;
+  margin-left: 27.5%;
+  margin-right: 30%;
+  background: #333;
+  border-radius: 5px;
+  border-left-width: 10px;
+  border-left-color: white;
+}
+
+div#authorsContent{
+  position: absolute;
+  top: 7.5%;
+  left: 62.5%;
+}
+button {
+  color: #f5f5f5;
+  background: transparent;
+  border-color: transparent;
+}
+
+div#storysContent{
+  position: absolute;
+  top: 7.5%;
+  left: 72.5%;
+}
