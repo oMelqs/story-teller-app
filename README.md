@@ -1,4 +1,4 @@
-# <div align="center"> Story Teller | React, React Native and NodeJS App </div>
+# <div align="center"> Story Teller | ReactJS, React Native and NodeJS App </div>
 
 <p align="center">Build a inclusive application to distribute classical poems and storys/</p>
 
